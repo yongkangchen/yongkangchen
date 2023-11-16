@@ -2,6 +2,7 @@
 
 - 🏫 I am pursuing a master's degree at [Santa Clara University](https://www.scu.edu)!
 - 💻 I major in Computer Science.
+- 🧑‍💻 **Seeking for Software Engineer full-time/Internship 2024 in USA.**
 
 ### Languages
 
