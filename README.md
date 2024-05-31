@@ -1,9 +1,5 @@
 ### Hi there, I'm Yongkang Chen.
 
-- 🏫 I am pursuing a master's degree at [Santa Clara University](https://www.scu.edu)!
-- 💻 I major in Computer Science.
-- 🧑‍💻 **Seeking a Software Engineer position in the USA, with the earliest start date of 06/17/2024.**
-
 ### Languages
 
 <img align="left" alt="C" width="26px" src="https://img.icons8.com/color/100/000000/c-programming.png" />
